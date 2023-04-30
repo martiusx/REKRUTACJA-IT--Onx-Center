@@ -6,4 +6,6 @@
     include('modules/NumericInput.php');
     echo '<br/>';
     include('modules/RankingTable.php');
+    echo '<br/>';
+    include('modules/Thesaurus.php');
 ?>
